@@ -1,0 +1,1 @@
+https://medium.com/@gustavo.guss/quick-tutorial-of-jenkins-b99d5f5889f2
